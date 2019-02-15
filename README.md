@@ -1,4 +1,4 @@
-# Housing-Price-Predictor
+# Housing Price Predictor
 Building a model of housing prices in California using the California census data.
 
 This project applies Supervised Learning to a regression task. 
